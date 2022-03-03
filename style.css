@@ -1,0 +1,42 @@
+th,
+td {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  text-align: center;
+}
+
+.button {
+  color: rgb(128, 0, 0);
+  float: right;
+  padding: 5px 15px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  opacity: 0.6;
+  transition: 0.3s;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.button:hover {
+  opacity: 1;
+}
+.checked {
+  color: orange;
+}
+table {
+  margin-left: 1px;
+  text-align: left;
+  background-color: #37475a;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
